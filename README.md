@@ -16,3 +16,4 @@ piano.exe
 For easier compilation I made a build.bat
 
 - The piano is called a secret piano because I once wanted to add it to another project when pressing a single button. I moved on from this idea and made a regular piano like that.
+- In case there's a problem importing the assets, put all of the bmp files in the same directory as piano.asm and photo.asm then remove the assets folder.
